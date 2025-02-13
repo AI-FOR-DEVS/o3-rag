@@ -1,0 +1,45 @@
+Technical Specifications - BerlinBike Models
+As of: August 2024
+CityGlider Pro:
+
+Motor: 250W Bosch Performance Line
+Battery: 500Wh, range up to 120km
+Weight: 22kg
+Frame: Aluminum, Step-Through Design
+Brakes: Hydraulic disc brakes
+Gears: Shimano 8-speed hub gear
+Tires: 28 inch, puncture protection
+Extras: Integrated LED lighting, luggage rack
+
+UrbanDash Elite:
+
+Motor: 250W Brose S-Mag
+Battery: 600Wh, range up to 140km
+Weight: 20kg
+Frame: Carbon, sporty design
+Brakes: Hydraulic disc brakes
+Gears: Shimano XT 11-speed
+Tires: 27.5 inch, Tubeless Ready
+Extras: GPS tracking, removable battery
+
+EcoRide Comfort:
+
+Motor: 250W Yamaha PW-SE
+Battery: 400Wh, range up to 100km
+Weight: 24kg
+Frame: Steel, comfort geometry
+Brakes: Roller brakes front and rear
+Gears: Shimano Nexus 7-speed
+Tires: 26 inch, extra wide comfort tires
+Extras: Suspended saddle, front basket
+
+SpeedSter X:
+
+Motor: 250W Fazua Evation
+Battery: 300Wh, range up to 80km
+Weight: 16kg
+Frame: Aluminum, road bike geometry
+Brakes: Hydraulic rim brakes
+Gears: SRAM Rival eTap AXS 12-speed
+Tires: 28 inch, Schwalbe Pro One
+Extras: Removable motor and battery, carbon wheels

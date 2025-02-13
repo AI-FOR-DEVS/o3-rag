@@ -1,0 +1,31 @@
+BerlinBike - Frequently Asked Questions
+
+Q: How old do I need to be to use BerlinBike?
+A: You must be at least 18 years old to register and use our e-bikes.
+
+Q: Do I need a driver's license to use BerlinBike?
+A: No, a driver's license is not required. However, you should be comfortable riding a bicycle in urban traffic.
+
+Q: How far can I go on a single charge?
+A: Depending on the model, our e-bikes can travel between 80-140 km on a single charge. The exact range depends on factors like riding style, terrain, and weather conditions.
+
+Q: What happens if the battery dies during my ride?
+A: You can still pedal the bike manually. We recommend ending your ride at the nearest BerlinBike station and choosing a different bike.
+
+Q: Can I reserve a bike in advance?
+A: Yes, you can reserve a bike up to 15 minutes in advance through our app.
+
+Q: What if I can't find a designated parking spot at the end of my ride?
+A: You can end your ride in any public area within our service zone. Just ensure you're not obstructing any pathways or violating any parking rules.
+
+Q: Is there a weight limit for the bikes?
+A: Yes, our bikes have a maximum weight capacity of 120 kg (264 lbs), including the rider and any cargo.
+
+Q: How do I report a damaged or malfunctioning bike?
+A: Use the "Report an Issue" feature in our app, or call our customer service hotline at 030-987654321.
+
+Q: Are helmets provided?
+A: For hygiene reasons, we don't provide helmets. We strongly encourage all riders to bring and wear their own helmets.
+
+Q: Can I take a BerlinBike outside of Berlin?
+A: No, our service is limited to within Berlin city limits. Taking a bike outside this area may result in additional fees.

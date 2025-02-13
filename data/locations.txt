@@ -1,0 +1,53 @@
+BerlinBike Locations
+
+As of: 08/23/2024
+
+1. Alexanderplatz Station
+   Address: Alexanderplatz 1, 10178 Berlin
+   Capacity: 20 Bikes
+   Opening Hours: 24/7
+
+2. Central Station North Entrance
+   Address: Europaplatz 1, 10557 Berlin
+   Capacity: 30 Bikes
+   Opening Hours: 24/7
+
+3. Mauerpark Entrance
+   Address: Bernauer Str. 63-64, 13355 Berlin
+   Capacity: 15 Bikes
+   Opening Hours: 6:00 AM - 10:00 PM
+
+4. Potsdamer Platz Arcades
+   Address: Alte Potsdamer Str. 7, 10785 Berlin
+   Capacity: 25 Bikes
+   Opening Hours: 24/7
+
+5. Brandenburg Gate South
+   Address: Pariser Platz, 10117 Berlin
+   Capacity: 20 Bikes
+   Opening Hours: 24/7
+
+6. Gesundbrunnen Center
+   Address: Badstraße 4, 13357 Berlin
+   Capacity: 15 Bikes
+   Opening Hours: 8:00 AM - 10:00 PM
+
+7. Tempelhof Field Entrance
+   Address: Columbiadamm 10, 12101 Berlin
+   Capacity: 20 Bikes
+   Opening Hours: 6:00 AM - 9:30 PM
+
+8. Ostbahnhof Square
+   Address: Koppenstraße 3, 10243 Berlin
+   Capacity: 25 Bikes
+   Opening Hours: 24/7
+
+9. Kurfürstendamm 234
+   Address: Kurfürstendamm 234, 10719 Berlin
+   Capacity: 15 Bikes
+   Opening Hours: 24/7
+
+10. Friedrichstraße Station
+    Address: Friedrichstraße 142, 10117 Berlin
+    Capacity: 20 Bikes
+    Opening Hours: 24/7
