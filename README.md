@@ -29,6 +29,8 @@ python rag_server.py
 - Flask: Query http://localhost:8080 with CURL
 
 Example request:
+
+Streaming endpoint:
 ```bash
 curl -X POST http://localhost:8080/chat \
   -H "Content-Type: application/json" \
