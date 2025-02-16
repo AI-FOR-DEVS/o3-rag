@@ -10,7 +10,12 @@ def chat(query):
     response = client.chat.completions.create(
         model="o3-mini-2025-01-31",
         messages=[{"role": "user", "content": prompt_with_context}],
+        stream=True
     )
-    return response.choices[0].message.content
+    
+    for chunk in response:
+        if chunk.choices[0].delta.content is not None:
+            yield chunk.choices[0].delta.content
 
-print(chat("Where is the nearest bike station? I'm near Berlin Ostbahnhof."))
+for chunk in chat("Where is the nearest bike station? I'm near Berlin Ostbahnhof. Please list all locations that are close by."):
+    print(chunk, end='', flush=True)
