@@ -26,7 +26,8 @@ python rag_server.py
 ```
 
 4. Access the application:
-- Flask: Query http://localhost:8080 with CURL
+- Web Interface: Visit http://localhost:8080 in your browser to use the chat interface
+- API: Query http://localhost:8080 with CURL
 
 Example request:
 
@@ -45,6 +46,7 @@ Watch the step-by-step tutorial:
 ## Features
 
 - Question answering using local documents
-- Choice of web interfaces (FastAPI or Flask)
+- Web-based chat interface
+- RESTful API endpoints
 - Uses OpenAI's API for embeddings and completion
 - Local document storage in `data/` directory
