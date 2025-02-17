@@ -39,10 +39,13 @@
     </div>
 
     <script>
+        const sessionId = Math.random().toString(36).substring(2);
+
         async function sendMessage() {
             const input = document.getElementById('userInput');
             const messages = document.getElementById('messages');
             const message = input.value.trim();
+
             
             if (!message) return;
 
@@ -63,7 +66,10 @@
                         'Content-Type': 'application/json',
                         'Accept': 'text/event-stream'
                     },
-                    body: JSON.stringify({ query: message })
+                    body: JSON.stringify({ 
+                        query: message,
+                        session_id: sessionId 
+                    })
                 });
 
                 const reader = response.body.getReader();
