@@ -16,6 +16,3 @@ def chat(query):
     for chunk in response:
         if chunk.choices[0].delta.content is not None:
             yield chunk.choices[0].delta.content
-
-for chunk in chat("Where is the nearest bike station? I'm near Berlin Ostbahnhof. Please list all locations that are close by."):
-    print(chunk, end='', flush=True)
