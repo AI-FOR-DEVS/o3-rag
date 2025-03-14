@@ -31,7 +31,7 @@ def chat(query, chat_history):
     chat_history.append({"role": "user", "content": prompt_with_context})
 
     response = client.chat.completions.create(
-        model="o3-mini-2025-01-31",
+        model="o3-mini",
         messages=chat_history,
         stream=True
     )
